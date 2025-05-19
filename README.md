@@ -8,3 +8,4 @@ CS25 Purple Team Training
 + [Vectr.io](https://docs.vectr.io/)
 + [MITRE ATT&CK Flow Builder](https://center-for-threat-informed-defense.github.io/attack-flow/ui/)
 + [MITRE ATT&CK Flow Examples](https://center-for-threat-informed-defense.github.io/attack-flow/example_flows/)
++ [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
